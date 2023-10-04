@@ -1,0 +1,16 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Note: Test: <IDLE>
+Time: 0 ps  Iteration: 0  Process: /uart_tx_tb/main_test  File: L:/VHDL/Vivado_Projects/uart_transmitter_2/uart_transmitter.srcs/sim_1/new/uart_tx_tb.vhd
+Note: Test: <IDLE>
+Time: 0 ps  Iteration: 0  Process: /uart_tx_tb/main_test  File: L:/VHDL/Vivado_Projects/uart_transmitter_2/uart_transmitter.srcs/sim_1/new/uart_tx_tb.vhd
+Note: Check: <IDLE> -> Pass
+Time: 19531248 ps  Iteration: 0  Process: /uart_tx_tb/main_test  File: L:/VHDL/Vivado_Projects/uart_transmitter_2/uart_transmitter.srcs/sim_1/new/uart_tx_tb.vhd
+Note: Test: <SEND_FRAME>
+Time: 26041664 ps  Iteration: 0  Process: /uart_tx_tb/main_test  File: L:/VHDL/Vivado_Projects/uart_transmitter_2/uart_transmitter.srcs/sim_1/new/uart_tx_tb.vhd
+Note: Check: <SEND_FRAME> -> Pass
+Time: 1067708224 ps  Iteration: 0  Process: /uart_tx_tb/main_test  File: L:/VHDL/Vivado_Projects/uart_transmitter_2/uart_transmitter.srcs/sim_1/new/uart_tx_tb.vhd
+Note: Test: <PAUSE>
+Time: 1074218640 ps  Iteration: 0  Process: /uart_tx_tb/main_test  File: L:/VHDL/Vivado_Projects/uart_transmitter_2/uart_transmitter.srcs/sim_1/new/uart_tx_tb.vhd
+Note: Check: <PAUSE> -> Pass
+Time: 1074218640 ps  Iteration: 0  Process: /uart_tx_tb/main_test  File: L:/VHDL/Vivado_Projects/uart_transmitter_2/uart_transmitter.srcs/sim_1/new/uart_tx_tb.vhd

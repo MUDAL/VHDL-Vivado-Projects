@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+L:/VHDL/Vivado_Projects/spi_slave/spi_slave.srcs/sim_1/new/slave_tb.vhd,1695933297,vhdl,,,,spi_slave_tb,,,,,,,,
+L:/VHDL/Vivado_Projects/spi_slave/spi_slave.srcs/sim_1/new/tb_pack_body.vhd,1695911496,vhdl,,,,,,,,,,,,
+L:/VHDL/Vivado_Projects/spi_slave/spi_slave.srcs/sim_1/new/tb_pack_header.vhd,1695911493,vhdl,L:/VHDL/Vivado_Projects/spi_slave/spi_slave.srcs/sim_1/new/slave_tb.vhd;L:/VHDL/Vivado_Projects/spi_slave/spi_slave.srcs/sim_1/new/tb_pack_body.vhd,,,tb_pack,,,,,,,,
+L:/VHDL/Vivado_Projects/spi_slave/spi_slave.srcs/sources_1/new/slave.vhd,1695913136,vhdl,L:/VHDL/Vivado_Projects/spi_slave/spi_slave.srcs/sim_1/new/slave_tb.vhd,,,spi_slave,,,,,,,,

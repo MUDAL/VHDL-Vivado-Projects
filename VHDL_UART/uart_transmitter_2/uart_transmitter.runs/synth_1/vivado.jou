@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Sep 30 13:23:10 2023
+# Process ID: 14416
+# Current directory: L:/VHDL/Vivado_Projects/uart_transmitter_2/uart_transmitter.runs/synth_1
+# Command line: vivado.exe -log uart_tx.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source uart_tx.tcl
+# Log file: L:/VHDL/Vivado_Projects/uart_transmitter_2/uart_transmitter.runs/synth_1/uart_tx.vds
+# Journal file: L:/VHDL/Vivado_Projects/uart_transmitter_2/uart_transmitter.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source uart_tx.tcl -notrace

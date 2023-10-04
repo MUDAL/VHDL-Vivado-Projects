@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="spi_slave_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="spi_slave_tb" />
+            <top_module name="tb_pack" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1000000001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="82"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/spi_slave_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/addr_in" type="array">
+      <obj_property name="ElementShortName">addr_in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_in[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/ack_in" type="array">
+      <obj_property name="ElementShortName">ack_in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ack_in[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/mosi" type="logic">
+      <obj_property name="ElementShortName">mosi</obj_property>
+      <obj_property name="ObjectShortName">mosi</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/sck" type="logic">
+      <obj_property name="ElementShortName">sck</obj_property>
+      <obj_property name="ObjectShortName">sck</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/nss" type="logic">
+      <obj_property name="ElementShortName">nss</obj_property>
+      <obj_property name="ObjectShortName">nss</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/miso" type="logic">
+      <obj_property name="ElementShortName">miso</obj_property>
+      <obj_property name="ObjectShortName">miso</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/miso_test" type="array">
+      <obj_property name="ElementShortName">miso_test[7:0]</obj_property>
+      <obj_property name="ObjectShortName">miso_test[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/data" type="array">
+      <obj_property name="ElementShortName">data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/clk_en" type="logic">
+      <obj_property name="ElementShortName">clk_en</obj_property>
+      <obj_property name="ObjectShortName">clk_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/bus_width" type="other">
+      <obj_property name="ElementShortName">bus_width</obj_property>
+      <obj_property name="ObjectShortName">bus_width</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/UUT/state" type="other">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/UUT/next_state" type="other">
+      <obj_property name="ElementShortName">next_state</obj_property>
+      <obj_property name="ObjectShortName">next_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/spi_slave_tb/UUT/mosi_buffer" type="array">
+      <obj_property name="ElementShortName">mosi_buffer[7:0]</obj_property>
+      <obj_property name="ObjectShortName">mosi_buffer[7:0]</obj_property>
+   </wvobject>
+</wave_config>

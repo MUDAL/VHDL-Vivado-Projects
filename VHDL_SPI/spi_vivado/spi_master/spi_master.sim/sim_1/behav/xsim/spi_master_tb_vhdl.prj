@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../spi_master.srcs/sources_1/new/master.vhd" \
+"../../../../spi_master.srcs/sim_1/new/tb_pack_header.vhd" \
+"../../../../spi_master.srcs/sim_1/new/tb_pack_body.vhd" \
+"../../../../spi_master.srcs/sim_1/new/master_tb.vhd" \
+
+# Do not sort compile order
+nosort

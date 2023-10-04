@@ -1,0 +1,45 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Note: Test: Idle
+Time: 0 ps  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Check: NSS - Idle -> Pass
+Time: 60 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Check: MOSI - Idle -> Pass
+Time: 60 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Test: Init
+Time: 80 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Check: NSS - Init -> Pass
+Time: 80 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Check: MOSI - Init -> Pass
+Time: 80 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Test: Send address
+Time: 100 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Check: NSS - Send address -> Pass
+Time: 260 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Check: MOSI - Send address -> Pass
+Time: 260 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Test: Get ACK
+Time: 260 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Check: NSS - Get ACK -> Pass
+Time: 420 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Test: Check ack
+Time: 420 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Check: NSS - Check ack -> Pass
+Time: 420 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Test: Send data, get complement
+Time: 440 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Check: NSS - Send data, get complement -> Pass
+Time: 440 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Test: Stop
+Time: 600 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Check: NSS - Stop -> Pass
+Time: 600 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Test: Stop to Idle
+Time: 600 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Check: NSS - Stop to Idle -> Pass
+Time: 620 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Note: Check: MOSI - Stop to Idle -> Pass
+Time: 620 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+Failure: End of simulation
+Time: 620 ns  Iteration: 0  Process: /spi_master_tb/main_test  File: L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd
+$finish called at time : 620 ns : File "L:/VHDL/Vivado_Projects/spi_master/spi_master.srcs/sim_1/new/master_tb.vhd" Line 181
